@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-04-09T22:47:45" hostname="DESKTOP-8J73M1R" time="0.038">
+  <properties/>
+  <testcase name="testGetUsers_validUsersList()" classname="MainTest" time="0.03"/>
+  <testcase name="getUserByLoginAndPassword()" classname="MainTest" time="0.003"/>
+  <testcase name="testValidateUser_throwAccessDeniedException()" classname="MainTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
